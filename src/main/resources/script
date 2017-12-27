@@ -1,0 +1,1 @@
+protoc  --proto_path=/home/ve/rpc/try-grpc/src/main/ --java_out=/home/ve/rpc/try-grpc/src/main/java /home/ve/rpc/try-grpc/src/main/proto/person.proto
